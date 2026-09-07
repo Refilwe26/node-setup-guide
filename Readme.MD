@@ -12,8 +12,14 @@
 
 
 npm init -y
+
+
 npm i typescript tsx @types/node
+
+
 npm i -D nodemon
+
+
 npx tsc --init
 
 
